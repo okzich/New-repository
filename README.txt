@@ -3,3 +3,5 @@
 
 beaches/sanur-beach.txt.
 trips/schedule.txt
+
+отддельная строка
