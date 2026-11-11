@@ -1,5 +1,5 @@
 "название курорта"
 "описание проекта"
 
-beaches/sanur.txt
+beaches/sanur-beach.txt.
 trips/schedule.txt
